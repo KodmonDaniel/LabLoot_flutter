@@ -27,12 +27,12 @@ egyszerűsítését.
 
 ## App felépítése
 
-Állapotkezelés: `Cubit`
-Függőséginjektálás: `Provider`
-Felhasználók kezelése: `Firebase-auth`
-Model osztályok: `Equatable, JsonSerializable`
+Állapotkezelés: `Cubit`  
+Függőséginjektálás: `Provider`  
+Felhasználók kezelése: `Firebase-auth`  
+Model osztályok: `Equatable, JsonSerializable`  
 
-<img src="git_images/architecture.png" width="200">
+<img src="git_images/architecture.png" width="400">
 
 ## Forráskód
 A forráskód eléréséhez kérlek keress meg e-mail-ben.
